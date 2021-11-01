@@ -1,5 +1,6 @@
 ---
 title: "Trabajo para Curso Generación de Valor"
+subtitle: "Modelo de predicción de Activos en el Mercado Bursatil"
 author: "Enrique Guerra, Víctor Nazar y Andrés Vera"
 date: "31-10-2021"
 output: pdf_document
@@ -9,7 +10,15 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Contexto Estratégico
+### Descripción de la Industria y la Empresa
+
+Motivados por la incertidumbre en el mercado bursatil y la expecatación que genera la información predictiva en este mercado en combinación con el creciente desarrollo de técnicas y herramientas de software en el 
+aprendizaje automático (machine learning), nuestro empresa la visualizamos como la entrega de un modelo continuamente evaluado que asesore los movimientos de activos en el mercado de capitales para las distintas empresas interesadas en manejar esa información.
+
+En el largo plazo después de alcanzar estándares predictivos, el proposito es vender el producto como aplicativo con interfaz gráfica que recoja una experiencia amigable para el cliente.
+
+Nuestra Industria elegida apunta hacia el asesoriamento financiero. Asesoramiento de caracter técnico a través de la analítica predictiva avanzada en revisión continua de nuevas mejora en los aspectos estéticos y predictivos del producto.
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
