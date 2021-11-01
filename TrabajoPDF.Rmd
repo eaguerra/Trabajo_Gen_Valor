@@ -13,12 +13,36 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Contexto Estratégico
 ### Descripción de la Industria y la Empresa
 
-Motivados por la incertidumbre en el mercado bursatil y la expecatación que genera la información predictiva en este mercado en combinación con el creciente desarrollo de técnicas y herramientas de software en el 
+Motivados por la incertidumbre en el mercado bursatil y la expectación que genera la información predictiva en este mercado en combinación con el creciente desarrollo de técnicas y herramientas de software en el 
 aprendizaje automático (machine learning), nuestro empresa la visualizamos como la entrega de un modelo continuamente evaluado que asesore los movimientos de activos en el mercado de capitales para las distintas empresas interesadas en manejar esa información.
 
 En el largo plazo después de alcanzar estándares predictivos, el proposito es vender el producto como aplicativo con interfaz gráfica que recoja una experiencia amigable para el cliente.
 
-Nuestra Industria elegida apunta hacia el asesoriamento financiero. Asesoramiento de caracter técnico a través de la analítica predictiva avanzada en revisión continua de nuevas mejora en los aspectos estéticos y predictivos del producto.
+Nuestra Industria elegida apunta hacia el asesoriamento financiero. Asesoramiento de carácter técnico a través de la analítica predictiva avanzada en revisión continua de nuevas mejoras en los aspectos estéticos y predictivos del producto.
+
+
+###  Caracterización del sistema de generación de valor de la Emapresa
+
+La generación de valor en nuestro contexto de Empresa es directo, el producto es entregado a los distintos agentes interesados en la información los cuales ofreceran un pago de acuerdo al valor de mercado de este tipo de asesorías. Probablemente la inserción de nuestro producto en este mercado requiera de ciertas entregas de prueba a un costo menor por algún tiempo limitado. 
+
+
+###  Síntesis de su Estrategia de Negocios y sus métricas clave (financiero, comercial, operaciones, otros)
+
+En resumen, nuestra estrategia se resume en cinco estapas. 
+- Primera Etapa: Reconocimiento del tipo de Industria y Empresa (descrito arriba). Evaluación de recursos necesitados (procesadores, libros, cursos de capacitación, tiempo requerido) en una primera instancia en relación a posibles ganancias que generen las ventas. Metricas de factibilidad. 
+
+- Segunda Etapa: Captura de conocimiento preliminar y confección de modelo preliminar. Implementaremos metodologías de trabajo ágil en donde un 
+modelo que funciono en los terminos más sencillos posibles será implementado. Esta parte queda determinada por un programa preliminar: estudio de técnicas estadísticas y financieras utilizadas en el marco del trading. Finalmente explorar implementaciones sencillas en umna primera instancia, con el conocimiento adquirido en una primera etapa se espera poder ir mejorando el modelo. Aquí exploraremos nuestro desempeño a través de algunas métricas como desempeño en distintos intervalos de tiempo. Definición del rango de error mínimo soportado en el mayor intervalo de tiempo posible, una métrica posible para concretar esto podría ser fijar el intevalo de error que es posible admitir.  
+
+- Tercera Etapa: Continua revisión del modelo en búsqueda de mejora en la precisión como meta principal en este etapa. Pensando en una metodología ágil la posible evaluación y constante retroalimientación por cada uno de los integrantes en posibles mejoras, revivión de antiguas perspectivas teóricas (matemáticas o financieras) en la implementación o exploración de nuevas perspectivas técnicas. Métricas posibles en esta etapa pueden ser cocientes entre mejora en precision versus pérdida en la explicabilidad, coste en tiempo de procesamiento o coste en tiempo de desarrollar nuevos conocimientos. 
+
+- Cuarta Etapa: Aspectos técnicos y estéticos en la entrega del producto. Análisis de interfaces gráficas cómodas y atractivas para el usuario. Decisión a través de estudios de marketing (encuestas con el usuario de satisfacción, y conocimiento de productos ya existentes). Las métricas aquí serían aportadas por las encuestas de satisfacción: una muestra de 100 clientes primarios podría ser suficiente en principio.
+
+- Quinta Etapa: Producción del producto y posicionamiento en el mercado. Métricas importantes serán aportadas por estudios a los distintos agentes que participen en este negocio. 
+
+Nuestra estrategia tiene como fin posicionar el producto como líder dentro del asesoramiento financiero en el mercado bursátil. Las métricas claves que cuantificarán nuestro liderazgo serán el carácter predictivo de nuestro modelo y algo probablemente tan importante como lo anterior, la forma de entrega de nuestro producto. El diseño jugará un papel importante aunque menos obvio en principio, un óptimo sería llegar a una aplicación amigable, atractiva y autoexplicativa en su uso. Métricas de percepción de la precisión del modelo y gusto por la aplicación del usuario definirán nuestras fortalezas y debilidades en la experiencia del usuario. Quizás estas métricas entregadas a nosotros por el cliente apunten al tipo de usuario que sería más factible enfocarse.  
+
+
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
